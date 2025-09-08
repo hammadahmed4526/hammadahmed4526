@@ -1,20 +1,27 @@
+<!-- Header Section -->
+
+
 <h1 align="center">Hi 👋, I'm Hammad Ahmed</h1>
 <h3 align="center">Frontend Developer | Creative Web Designer | Tech Explorer</h3>
+<img width="30vh" align="left" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="">
 
 ---
 
-### 🌟 About Me
+### 🌟 About Me  
+🚀 Passionate about creating **modern, responsive, and high-performance web experiences** with a touch of creativity.  
+💡 Always exploring new technologies to sharpen my skills and push boundaries.  
+
 - 🌱 Currently learning **Digital Marketing, C++, Python, Database Management**  
-- 👨‍💻 Check out all my projects: [Portfolio Website](https://hammadahmed-portfolioweb.vercel.app/)  
-- 💬 Ask me about **HTML, CSS, JS, React, Node.js, MongoDB, Vercel**  
-- 📫 Reach me at **hammadahmedportfolio@gmail.com**
+- 👨‍💻 Explore my work: [Portfolio Website](https://hammadahmed-portfolioweb.vercel.app/)  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB, Vercel**  
+- 📫 Reach me at **hammadahmedportfolio@gmail.com**  
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/hammadahmed-ahmed-b32117372" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://facebook.com/profile.php?id=61577936158112" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -26,7 +33,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50"/>
@@ -40,9 +47,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadahmed4526&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadahmed4526&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadahmed4526&show_icons=true&locale=en&layout=compact&theme=radical" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadahmed4526&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadahmed4526&theme=tokyonight" alt="streak" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadahmed4526&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" height="160"/>
+</p>
+
+---
+
+✨ *“Code is not just logic, it’s creativity in motion.”* ✨  
