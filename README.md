@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Hammad Ahmed</h1>
 <h3 align="center">Frontend Developer | Creative Web Designer | Tech Explorer</h3>
-<img width="30vh" align="left" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="">
+<img width="400px" align="left" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="">
 
 ---
 
